@@ -1,6 +1,13 @@
 ## Introduction
 
-A play-clj game in which ... well, that part is up to you.
+A play-clj game in which a small army of skeletons fights a small army
+of ghosts.
+
+
+## How to Run
+
+    cd dekstop
+    lein run
 
 ## Contents
 
